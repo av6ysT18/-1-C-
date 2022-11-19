@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ДЗ1 C#\З№2\obj\Debug\net7.0\З№2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ДЗ1 C#\З№2\obj\Debug\net7.0\З№2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ДЗ1 C#\З№2\obj\Debug\net7.0\З№2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ДЗ1 C#\З№2\obj\Debug\net7.0\З№2.AssemblyInfo.cs
+C:\Users\User\Desktop\ДЗ1 C#\З№2\obj\Debug\net7.0\З№2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ДЗ1 C#\З№2\bin\Debug\net7.0\З№2.exe
+C:\Users\User\Desktop\ДЗ1 C#\З№2\bin\Debug\net7.0\З№2.deps.json
+C:\Users\User\Desktop\ДЗ1 C#\З№2\bin\Debug\net7.0\З№2.runtimeconfig.json
+C:\Users\User\Desktop\ДЗ1 C#\З№2\bin\Debug\net7.0\З№2.dll
+C:\Users\User\Desktop\ДЗ1 C#\З№2\bin\Debug\net7.0\З№2.pdb
+C:\Users\User\Desktop\ДЗ1 C#\З№2\obj\Debug\net7.0\З№2.dll
+C:\Users\User\Desktop\ДЗ1 C#\З№2\obj\Debug\net7.0\refint\З№2.dll
+C:\Users\User\Desktop\ДЗ1 C#\З№2\obj\Debug\net7.0\З№2.pdb
+C:\Users\User\Desktop\ДЗ1 C#\З№2\obj\Debug\net7.0\З№2.genruntimeconfig.cache
+C:\Users\User\Desktop\ДЗ1 C#\З№2\obj\Debug\net7.0\ref\З№2.dll
